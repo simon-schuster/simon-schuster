@@ -4,8 +4,6 @@
 - currently I'm studying computer science at the [Technical University of Graz](https://www.tugraz.at/home)
 - also I'm working part-time at the [SSI Schäfer GmbH](https://www.ssi-schaefer.com/en-de)
 
----
-
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/simon-schuster-0504b71a1#gh-light-mode-only)
@@ -35,5 +33,14 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <br />
+<br />
+
+<!-- show top languages of all public repos, (i have none yet) -->
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-schuster&layout=compact&count_private=true) -->
 
 ---
+
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simon-schuster&count_private=true&&hide=stars&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<!-- uncomment if public -->
+<!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebastiangollob&repo=cracked-ai)](https://github.com/sebastiangollob/cracked-ai) -->
