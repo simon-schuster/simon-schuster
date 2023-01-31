@@ -25,8 +25,20 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" />](#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" />](#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/github-light.svg">
+  <img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/github-dark.svg">
+  <img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" />
+</picture>
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/terminal-light.svg">
+  <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/terminal-dark.svg">
+  <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+</picture>
