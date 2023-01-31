@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Simon 👋
 
-<!--
-**simon-schuster/simon-schuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What am I doing?
+- currently I'm studying computer science at the [Technical University of Graz][https://www.tugraz.at/home]
+- also I'm working part-time at the [SSI Schäfer Gmbh][https://www.ssi-schaefer.com/en-de]
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/simon-schuster-0504b71a1#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/simon-schuster-0504b71a1#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/simon___schuster#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/simon___schuster#gh-dark-mode-only)
