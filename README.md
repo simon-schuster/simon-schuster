@@ -1,8 +1,8 @@
 ### Hi there, I'm Simon 👋
 
 ## What am I doing?
-- currently I'm studying computer science at the [Technical University of Graz][https://www.tugraz.at/home]
-- also I'm working part-time at the [SSI Schäfer Gmbh][https://www.ssi-schaefer.com/en-de]
+- currently I'm studying computer science at the [Technical University of Graz](https://www.tugraz.at/home)
+- also I'm working part-time at the [SSI Schäfer GmbH](https://www.ssi-schaefer.com/en-de)
 
 ### Connect with me:
 
